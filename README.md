@@ -1,2 +1,2 @@
-# prsrec
+# pysrec
 python speech recognizer
